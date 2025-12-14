@@ -4,9 +4,12 @@
 [![Gazebo](https://img.shields.io/badge/Gazebo-Ignition-orange)](https://gazebosim.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A professional-quality differential drive mobile robot simulation package for ROS2 Humble with stable ball caster design for Gazebo Ignition.
+A differential drive mobile robot simulation package for ROS2 Humble with stable ball caster design for Gazebo Ignition.
 
 ---
+<img width="1847" height="955" alt="image" src="https://github.com/user-attachments/assets/5337a20a-5c3d-4ca3-8003-f625923301f5" />
+<img width="1834" height="953" alt="image" src="https://github.com/user-attachments/assets/7cbde9a1-4281-41a8-af2a-9176bbb423bb" />
+
 
 ## Project Highlights
 
@@ -232,8 +235,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Dieudonne YUFONYUY**
 
 - Email: dieudonne.yufonyuy@gmail.com
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Portfolio: [your-website.com](https://your-website.com)
+- LinkedIn: [[https://www.linkedin.com/in/dieudonne-yufonyuy](https://www.linkedin.com/in/dieudonne-yufonyuy)
 
 ---
 
